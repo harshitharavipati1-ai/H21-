@@ -24,3 +24,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitharavipati1-ai&show_icons=true&locale=en&layout=compact" alt="harshitharavipati1-ai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitharavipati1-ai&show_icons=true&locale=en" alt="harshitharavipati1-ai" /></p>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
